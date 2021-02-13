@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="springboot-webflux-1-quickstart-0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../springboot-webflux-1-quickstart/target/springboot-webflux-1-quickstart-0.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
